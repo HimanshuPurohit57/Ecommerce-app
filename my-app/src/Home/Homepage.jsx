@@ -8,6 +8,7 @@ const Homepage = () => {
       <Announcements/>
       <Navbar/>
       <Slider/>
+       
     </div>
   )
 }
